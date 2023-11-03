@@ -1,0 +1,2 @@
+C:\programmingProjects\C++\practica01\x64\Debug\practica01.exe
+C:\programmingProjects\C++\funciones\x64\Debug\practica01.exe

@@ -1,0 +1,6 @@
+﻿  practica01.cpp
+C:\programmingProjects\C++\funciones\practica01.cpp(95,23): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\programmingProjects\C++\funciones\practica01.cpp(96,23): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\programmingProjects\C++\funciones\practica01.cpp(97,23): warning C4129: '|': secuencia de escape de carácter no reconocida
+C:\programmingProjects\C++\funciones\practica01.cpp(98,23): warning C4129: '_': secuencia de escape de carácter no reconocida
+  practica01.vcxproj -> C:\programmingProjects\C++\funciones\x64\Debug\practica01.exe
